@@ -1,8 +1,8 @@
 ### Hello World 👋
 
 - 👋 Hi, I’m @MaximeNzo
-- 👀 I’m interested in mostly everything
-- 🌱 I’m currently learning ReactJS & Flutter
+- 👀 I’m interested in mostly everything but code mosty using NextJS/ReactJS and Node
+- 🌱 I’m currently learning Typescript & Flutter
 - 💞️ I’m looking to collaborate on Wonderful apps
 - 📫 How to reach me maximenz.com
 
